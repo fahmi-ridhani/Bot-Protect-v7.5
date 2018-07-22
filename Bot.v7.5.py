@@ -9,7 +9,7 @@ from gtts import gTTS
 
 
 cl = LINETCR.LINE()
-cl.login(token="EopxlGUaTxY2kBlfN9A0.1InGNGZn7NNY7fUrZGx9ua.UfOImWIBt/YBH9Tvw3k0vF0OhteAZK0jMGOfjrGNNXY=")
+cl.login(token="ErteopxlGUaTxY2kBlfN9A0.1InGNGZn7NNY7fUrZGx9ua.UfOImWIBt/YBH9Tvw3k0vF0OhteAZK0jMGOfjrGNNXY=")
 cl.loginResult()
 
 kt = LINETCR.LINE()
